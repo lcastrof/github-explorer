@@ -6,6 +6,7 @@
 >Projeto realizado durante o Bootcamp GoStack, ministrado pela Rocketseat.
 
 Feito utilizando ReactJS e a API pública do GitHub, o github_explorer é uma aplicação simples para se explorar os repositórios dos usuários do próprio GitHub e visualizar suas estrelas, forks e issues abertas.
+Para utilizar a aplicação, o usuário deve digitar as informações no seguinte formato: "usuário/repositório".
 
 ## Tecnologias envolvidas
 - [React](https://pt-br.reactjs.org)
